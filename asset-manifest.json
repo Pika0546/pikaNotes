@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pikaNotes/static/css/main.117ce34f.chunk.css",
-    "main.js": "/pikaNotes/static/js/main.90a7220a.chunk.js",
-    "main.js.map": "/pikaNotes/static/js/main.90a7220a.chunk.js.map",
+    "main.css": "/pikaNotes/static/css/main.87fce7ca.chunk.css",
+    "main.js": "/pikaNotes/static/js/main.c4d548a2.chunk.js",
+    "main.js.map": "/pikaNotes/static/js/main.c4d548a2.chunk.js.map",
     "runtime-main.js": "/pikaNotes/static/js/runtime-main.564c8056.js",
     "runtime-main.js.map": "/pikaNotes/static/js/runtime-main.564c8056.js.map",
     "static/js/2.9c9b4151.chunk.js": "/pikaNotes/static/js/2.9c9b4151.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f77b7c9d.chunk.js": "/pikaNotes/static/js/3.f77b7c9d.chunk.js",
     "static/js/3.f77b7c9d.chunk.js.map": "/pikaNotes/static/js/3.f77b7c9d.chunk.js.map",
     "index.html": "/pikaNotes/index.html",
-    "static/css/main.117ce34f.chunk.css.map": "/pikaNotes/static/css/main.117ce34f.chunk.css.map",
+    "static/css/main.87fce7ca.chunk.css.map": "/pikaNotes/static/css/main.87fce7ca.chunk.css.map",
     "static/js/2.9c9b4151.chunk.js.LICENSE.txt": "/pikaNotes/static/js/2.9c9b4151.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.564c8056.js",
     "static/js/2.9c9b4151.chunk.js",
-    "static/css/main.117ce34f.chunk.css",
-    "static/js/main.90a7220a.chunk.js"
+    "static/css/main.87fce7ca.chunk.css",
+    "static/js/main.c4d548a2.chunk.js"
   ]
 }
