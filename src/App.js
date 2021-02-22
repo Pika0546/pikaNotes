@@ -123,7 +123,10 @@ const store = (thing) =>{
 
 const reducer = (state, action) => {
 	if(action.type === 'GET_DATA'){
-		const newList = JSON.parse(localStorage.getItem('notes'));
+		let newList = JSON.parse(localStorage.getItem('notes'));
+		if(!newList){
+			newList = [];
+		}
 		return{
 			...state,
 			myNotes: newList,
